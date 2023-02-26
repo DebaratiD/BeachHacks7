@@ -17,3 +17,6 @@ It was a lot of learning throughout the event as we learned the reverse image ma
 
 ## What's next for Monument Locator
 We are planning to expand the dataset and get as many images as possible. So we plan to automate the process by building a pipe that would automatically store the location details of any monument via search results on the database directly, reducing efforts to manage it manually.
+
+## Link to our project video on youtube
+https://youtu.be/JAROe-1u4xA
